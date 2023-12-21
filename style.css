@@ -1,0 +1,20 @@
+body{
+    background:url("puju.jpg");
+    background-size: 280%;
+    background-position: -400px 0px;
+}
+.reg-form{
+font-style:normal;
+font-weight: bold;
+text-align: center;
+border: 8px solid black;
+margin: 50px;
+margin-left: 450px;
+line-height:2rem;
+width: 600px;
+}
+.reg-form ul{
+    border-bottom:4px solid black;
+    width:auto;
+    line-height:4rem;
+}
